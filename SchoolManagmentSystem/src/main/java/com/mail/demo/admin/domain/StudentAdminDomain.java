@@ -17,12 +17,13 @@ public class StudentAdminDomain {
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
-	private int Admin_Id;
-	private String admin_Name;
-	private String admin_Last_Name;
-	private long admin_Mobile_number;
-	private String gender;
-	private String email;
-	private String password;
+	private int Admin_Id=1;
+	private String admin_Name="name";
+	private String admin_Last_Name="LastName";
+	private long admin_Mobile_numbe"+91";
+	private String gender="male";
+	private String email="balajireddy064@gmail.com;
+	private String password="8549850878";
+	
 
 }
